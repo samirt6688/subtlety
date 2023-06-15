@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
