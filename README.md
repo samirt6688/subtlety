@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Update Twitter icon in Docs (#7711)
