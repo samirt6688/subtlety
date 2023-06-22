@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+fix export tensorrt with dynamic size
