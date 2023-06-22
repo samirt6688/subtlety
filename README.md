@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
