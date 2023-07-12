@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
