@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
