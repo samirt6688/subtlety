@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
