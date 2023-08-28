@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Allow Annotator PIL.Image inputs (#8397)
