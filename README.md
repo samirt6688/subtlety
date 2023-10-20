@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
