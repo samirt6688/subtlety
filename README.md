@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+ultralytics 8.1.27 batched tracking fixes (#8842)
