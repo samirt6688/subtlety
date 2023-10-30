@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Fix docker.yaml double-quote version bug (#7452)
