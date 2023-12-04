@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Fix undefined ‘im_array’ bug in predict.md (#8565)
