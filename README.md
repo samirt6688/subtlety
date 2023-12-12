@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
