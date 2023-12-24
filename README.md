@@ -1,1 +1,1 @@
-fix resume training
+Update HTTP to HTTPS (#7548)
