@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
