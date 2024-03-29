@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Fix IS_PYTHON_3_12 bug (#9258)
