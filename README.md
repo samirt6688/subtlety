@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+docs: update view-results-in-terminal.md (#66)
