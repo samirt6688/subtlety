@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+* fix for predicting with batch_size > 1
