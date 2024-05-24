@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
