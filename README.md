@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
