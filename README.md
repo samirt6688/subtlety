@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Add visuals in guides/distance-calculation.md (#7876)
