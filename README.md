@@ -1,1 +1,1 @@
-example Google Colab
+Improve Docs arguments tables (#8415)
