@@ -1,1 +1,1 @@
-added badges (#45)
+Mkdocs updates (#8008)
