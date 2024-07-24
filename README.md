@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Update inference.cpp (bug) (#7279)
