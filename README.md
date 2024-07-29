@@ -1,1 +1,1 @@
-fix print val map
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
