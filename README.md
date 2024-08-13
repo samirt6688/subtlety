@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+TensorRT FP16 export with dynamic=True (#7870)
