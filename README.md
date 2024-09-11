@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
