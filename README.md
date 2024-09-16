@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
