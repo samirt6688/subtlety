@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Fix TFLite INT8 for OBB (#7989)
