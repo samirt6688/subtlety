@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+OBB: Fix plot_images (#7592)
