@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Compare plt.get_backend() in lowercase (#8409)
